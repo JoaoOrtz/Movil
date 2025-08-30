@@ -1,0 +1,5 @@
+# Ignorar build de Flutter/Dart
+**/build/
+.dart_tool/
+.packages
+.pub-cache/
